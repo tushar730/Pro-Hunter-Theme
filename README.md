@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/image/header.jpg">
+<img src = "https://github.com/tushar730/Pro-Hunter-Theme/blob/master/image/ezgif.com-video-to-gif%20(1).gif?raw=true">
 </p>
 
 <p align="center">
