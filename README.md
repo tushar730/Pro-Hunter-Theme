@@ -36,7 +36,7 @@ NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDis
 
 A Discord server was made for issues, support, comments, recommendations, etc.
 
-[<img src="https://canary.discordapp.com/api/guilds/412794678791110664/widget.png?style=banner3">](https://discord.gg/FdZhbjY)
+[<img src="https://mega.nz/fm/wHBQ3IYL">](https://discord.gg/6NAjq8C)
 
 Any issues can be expressed by:
 
